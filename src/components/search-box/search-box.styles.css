@@ -1,0 +1,19 @@
+.search-box {
+   border: 1px solid grey;
+   outline: none;
+   padding: 5px 15px;
+   width: 150px;
+   line-height: 30px;
+   margin-bottom: 30px;
+   margin: 0px 10px;
+}
+
+.search-box-container {
+   display: flex;
+   flex-direction: column;
+}
+
+.search-title {
+   margin-bottom: 5px;
+   font-size: 1.2rem;
+}
